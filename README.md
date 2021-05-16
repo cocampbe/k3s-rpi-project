@@ -5,7 +5,7 @@ This is a repo to document how I built out my k3s cluster.
 # Items
 
 - 7 x rpi4 2GB
-- 1 x enclosure
+- 1 x enclosure - https://www.etsy.com/ie/listing/601443602/8-slot-cluster-cloudlet-stackable?ref=shop_home_feat_1
 - 7 x rpi poe tophats
 - 1 x poe switch
 - 7 x ???GB microsd cards. 
