@@ -4,10 +4,11 @@ This is a repo to document how I built out my k3s cluster.
 
 # Items
 
-- 7 rpi4 2GB
-- 1 enclosure
-- 7 rpi poe tophats
-- 1 poe switch
+- 7 x rpi4 2GB
+- 1 x enclosure
+- 7 x rpi poe tophats
+- 1 x poe switch
+- 7 x ???GB microsd cards. 
 
 # What I did
 
