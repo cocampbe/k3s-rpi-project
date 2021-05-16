@@ -15,10 +15,10 @@ This is a repo to document how I built out my k3s cluster.
 
 2. dd the image onto the microsd card
 
-```
-sudo dd if=~/Documents/RaspeberryPi/rpi-ol8.3-image-20210106.img of=/dev/mmcblk0 bs=4M
-``` 
-
-Do this 7 times.
+    ```
+    sudo dd if=~/Documents/RaspeberryPi/rpi-ol8.3-image-20210106.img of=/dev/mmcblk0 bs=4M
+    ``` 
+    
+    Do this 7 times.
 
 3. 
